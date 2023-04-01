@@ -1,7 +1,35 @@
 * {
-background:#202020;
+background:#606060
 }
 
-* {
+ h2 {
     color: aquamarine;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+p {
+    color:#E1E1E1
+}
+
+ol {
+    color:#E1E1E1
+}
+
+ul {
+    color:#E1E1E1
+}
+
+mark {
+    color:yellow
+}
+
+a {
+    color:aqua
+}
+
+h1 {
+    color:white;
 }
